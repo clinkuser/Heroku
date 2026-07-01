@@ -573,7 +573,7 @@ help:
   partial_load: "<tg-emoji emoji-id=5355133243773435190>☝️</tg-emoji> <b>Userbot is not fully loaded, so not all modules are shown</b>"
   not_exact: "<tg-emoji emoji-id=5355133243773435190>☝️</tg-emoji> <b>No exact match occured, so the closest result is shown instead</b>"
   request_join: "You requested link for Heroku support chat"
-  core_notice: "<tg-emoji emoji-id=5355133243773435190>☝️</tg-emoji> <b>This is a core module. You can't unload it nor replace</b>"
+  core_notice: "<tg-emoji emoji-id=5355133243773435190>☝️</tg-emoji> <b>This is a core module. You can't unload it or replace</b>"
 
   _cls_doc: Shows help for modules and commands
   _cmd_doc_help: '[module] - Show help for modules and commands'
